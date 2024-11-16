@@ -3,3 +3,4 @@
 -- Add any additional options here
 vim.opt.wrap = true
 vim.opt.list = false
+vim.g.lazyvim_python_lsp = "pyright"
