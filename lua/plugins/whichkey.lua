@@ -16,7 +16,7 @@ return {
       win = {
         height = {
           min = 4,
-          max = 30,
+          max = 28,
         },
       },
     },
